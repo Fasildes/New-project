@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+this is from frontend. 
+this is anothe develop.
+html css js.
 this is from frontend 
 another from main.
 this is anothe develop 
