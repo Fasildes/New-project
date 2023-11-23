@@ -2,7 +2,6 @@
 this is from frontend. 
 this is anothe develop.
 html css js.
-=======
 this is from frontend 
 another from main.
 this is anothe develop 
@@ -10,4 +9,3 @@ this is develop and main file
 some change file
 
 
->>>>>>> 716111ce09a5381b173e87b7ee62881f75410128

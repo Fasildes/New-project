@@ -1,7 +1,5 @@
 Hello World
-<<<<<<< HEAD
 This is from qa file 
 This is from develop file.
-=======
 this from qa file.
->>>>>>> 716111ce09a5381b173e87b7ee62881f75410128
+

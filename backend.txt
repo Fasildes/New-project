@@ -1,8 +1,6 @@
 this is from backend branch
 this is another backend branch
-<<<<<<< HEAD
 how are you today.
-=======
-html css java secripte.
->>>>>>> 716111ce09a5381b173e87b7ee62881f75410128
+html css java secripte. 
+hello world.
 
